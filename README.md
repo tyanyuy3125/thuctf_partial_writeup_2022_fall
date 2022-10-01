@@ -6,6 +6,8 @@ username: `tyanyuy3125`
 
 team: `cancanneed`
 
+rank: `16/148` 
+
 e-mail: `huang-ty21[at]mails.tsinghua.edu.cn`
 
 dept: `E(lectronic)E`
